@@ -1,2 +1,2 @@
-# netchek.elsetik.com
+# netcheck.elsetik.com
 Internet check site
